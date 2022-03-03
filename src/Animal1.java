@@ -18,7 +18,6 @@ public class animal1 {
 		} else if (answer.equalsIgnoreCase("dog")) {
 			System.out.println(" \\ ______/ V`-,\n  }        /~~\n /_)^ --,r\'\n|b      |b");
 
-			System.out.println(" \\ ______/ V`-,\n  }        /~~\n /_)^ --,r\'\n|b      |b");
 
 		} else if (answer.equalsIgnoreCase("fish")) {
 			System.out.println(" ;,//;,    ,;/\n o:::::::;;///\n>::::::::;;\\\\\\\n  \'\'\\\\\\\\\\\'\" \';\\");
