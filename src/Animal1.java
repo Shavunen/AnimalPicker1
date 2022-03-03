@@ -17,6 +17,9 @@ public class animal1 {
 
 		} else if (answer.equalsIgnoreCase("dog")) {
 			System.out.println("“DOG ASCII ART HERE");
+		} else {
+			System.out.println("This is not a valid response!!");
+
 }
 	}
 }
