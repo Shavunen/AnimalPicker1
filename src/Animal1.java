@@ -13,10 +13,10 @@ public class animal1 {
 		String answer = question.nextLine();
 
 		if (answer.equalsIgnoreCase("cat")) {
-			System.out.println("“CAT ASCII ART HERE");
+			System.out.println(" _._     _,-\'\"\"`-._\n(,-.`._,\'(       |\\`-/|\n    `-.-\' \\ )-`( , o o)\n    ");
 
 		} else if (answer.equalsIgnoreCase("dog")) {
-			System.out.println("“DOG ASCII ART HERE");
+			System.out.println(" \\ ______/ V`-,\n  }        /~~\n /_)^ --,r\'\n|b      |b");
 		} else {
 			System.out.println("This is not a valid response!!");
 
