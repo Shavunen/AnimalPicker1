@@ -20,6 +20,15 @@ public class animal1 {
 		} else {
 			System.out.println("This is not a valid response!!");
 
-}
+			boolean running = true;
+			while (running) {
+				System.out.println("Would you like to see a cat, dog, or fish?");
+
+				{
+					running = false;
+
+				}
+			}
+		}
 	}
 }
